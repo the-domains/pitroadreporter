@@ -1,0 +1,14 @@
+layout_spectrum: 0.2830378
+color:
+  saturation: 1
+  lightness: 0.5985663
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#ED1C24'
+    - '#6D6E71'
+    - '#FAD013'
+    - '#FFFFFF'
+  rhythmicContrast: 0.7580645
+typography_spectrum: 0.3830066
+name: 'PitRoadReporter '
