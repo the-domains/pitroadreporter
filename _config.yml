@@ -1,4 +1,5 @@
-layout_spectrum: 0.2830378
+layout_spectrum: 0.7724015
+typography_spectrum: 0.3830066
 color:
   saturation: 1
   lightness: 0.5985663
@@ -10,5 +11,4 @@ color:
     - '#FAD013'
     - '#FFFFFF'
   rhythmicContrast: 0.7580645
-typography_spectrum: 0.3830066
 name: 'PitRoadReporter '
